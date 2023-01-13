@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning machine learning, static program analysis and so on
 - 📫 How to reach me: pgzxb@qq.com
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=PGZXB&show_icons=true&count_private=true&theme=chartreuse-dark)](https://github.com/PGZXB)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PGZXB&layout=compact&theme=chartreuse-dark)](https://github.com/PGZXB)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PGZXB)](https://github.com/PGZXB/github-contribution-stats/)
