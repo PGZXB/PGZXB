@@ -12,11 +12,11 @@ I work on **AI4SE** and **LLM-based program repair**.
 
 1. **Task-Aware Project-Specific Information Selection for LLM-Based Automated Program Repair**  
    **Mingming Zhang**, Xu Wang, Jian Zhang, Xiangxin Meng, Chunming Hu  
-   *IEEE Transactions on Software Engineering (TSE)*, 2026 (accepted) · [Code](https://github.com/PGZXB/PSIRepair)
+   *IEEE Transactions on Software Engineering (TSE)*, 2026 (accepted) · **CCF-A** · [Code](https://github.com/PGZXB/PSIRepair)
 
 2. **Element-Based Automated DNN Repair with Fine-Tuned Masked Language Model**  
    Xu Wang, **Mingming Zhang**<sup>†</sup>, Xiangxin Meng, Jian Zhang, Yang Liu, Chunming Hu  
-   *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2025 · [DOI](https://doi.org/10.1145/3715716) · [Code](https://github.com/PGZXB/MLM4DNN)
+   *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2025 · **CCF-A** · [DOI](https://doi.org/10.1145/3715716) · [Code](https://github.com/PGZXB/MLM4DNN)
 
 ### Preprints
 
