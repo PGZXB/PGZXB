@@ -2,7 +2,7 @@
 
 Third-year Ph.D. Student, [Beihang University](https://www.buaa.edu.cn/)
 
-I work on **AI4SE** and **LLM-based program repair**.
+`AI4SE` · `LLM-based Program Repair`
 
 ---
 
